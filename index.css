@@ -1,0 +1,35 @@
+.card-header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.card-img-top{
+    margin-top: 12px;
+    width:auto;
+}
+.card-body{
+    padding: 5px;
+    text-align: center;
+}
+
+.card{
+    background:linear-gradient(135deg, #a0cdeb, #c991df);
+    border: 2px solid white;
+}
+
+.btn{
+    background: linear-gradient(135deg, #a0cdeb, #c991df);
+    width: 190px;
+    margin-left: 50px;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.btn:hover{
+    background: linear-gradient(-135deg, #a0cdeb, #c991df);
+}
+
